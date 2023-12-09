@@ -1,7 +1,7 @@
 # Meu Próximo Destino
 Site com dicas de viagens, projeto ainda em desenvolvimento
 
-![Home Meu Próximo Destino](front-example.jpg)
+![Home Meu Próximo Destino](front_example.jpg)
 
 ## Descrição
 Este site oferece uma coleção de dicas, guias e recomendações para viajantes. Com uma abordagem simples e intuitiva, apresenta informações valiosas sobre destinos populares, pontos turísticos, dicas de hospedagem, alimentação e experiências locais. Desenvolvido com HTML e CSS, o site oferece uma interface amigável e acessível para explorar e descobrir novos destinos.
